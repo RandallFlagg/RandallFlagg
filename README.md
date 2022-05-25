@@ -16,3 +16,19 @@ Here are some ideas to get you started:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RandallFlagg)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandallFlagg&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandallFlagg&hide=contribs,prs) -->
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandallFlagg&count_private=true) -->
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandallFlagg&show_icons=true&count_private=true) -->
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RandallFlagg&repo=IdSharpCore)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+
+
+
+
