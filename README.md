@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RandallFlagg&theme=nord_bright)
+![repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RandallFlagg&theme=nord_bright&exclude=)
+![Top languages in commits card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RandallFlagg&theme=nord_bright&exclude=)
+![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RandallFlagg&theme=nord_bright)
+![Productive time card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RandallFlagg&theme=nord_bright&utcOffset=+1)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RandallFlagg)](https://github.com/ryo-ma/github-profile-trophy)
 
