@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 I'm not a designer, but I do want something that reflects what I’ve been up to here on GitHub. So, I’m experimenting with a few options and switching things up from time to time. Got a better idea or spot something that could be improved? Feel free to open an issue — suggestions are always welcome! :)
+
+[My Profile](https://profile-summary-for-github.com/user/RandallFlagg)
 <!--
 **RandallFlagg/RandallFlagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
