@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
 ![profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RandallFlagg&theme=nord_bright)
 ![repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RandallFlagg&theme=nord_bright&exclude=)
 ![Top languages in commits card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RandallFlagg&theme=nord_bright&exclude=)
@@ -23,24 +24,8 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RandallFlagg)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandallFlagg&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandallFlagg&show_icons=true&theme=radical&count_private=false)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandallFlagg&show_icons=true&count_private=true#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RandallFlagg&repo=IdSharpCore)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RandallFlagg&repo=LogExpert)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandallFlagg&hide=contribs,prs) -->
-
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandallFlagg&count_private=true) -->
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandallFlagg&show_icons=true&count_private=true) -->
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RandallFlagg&repo=IdSharpCore)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!--
-https://github.com/vn7n24fzkq/github-profile-summary-cards
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RandallFlagg&theme=2077
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={username}&theme={theme_name}&exclude={exclude}
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username={username}&theme={theme_name}
-http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={username}&theme={theme_name}&utcOffset={utcOffset}
--->
-
-
-
